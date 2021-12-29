@@ -1,5 +1,5 @@
 ## 수강 과목
-ELEC247_Logic_Design    
-COMP311_Logic_Desigin_With_VHDL
+ELEC247 Logic_Circuits    
+COMP311 Logic_Circuit_Desigin
 
 
