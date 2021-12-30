@@ -23,7 +23,7 @@
 
 ## NOT
 ![NOT_COMPARE](https://user-images.githubusercontent.com/60434800/147720196-e20039f9-6094-4f11-9a97-3972d2170a92.png)
-https://www.ti.com/lit/ds/symlink/sn74ls04.pdf?ts=1640835721752&ref_url=https%253A%252F%252Fen.wikipedia.org%252F
+[Reference](https://www.ti.com/lit/ds/symlink/sn74ls04.pdf?ts=1640835721752&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)
 
 | A | B |
 |---|---|
