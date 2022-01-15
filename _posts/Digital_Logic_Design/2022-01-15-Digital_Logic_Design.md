@@ -22,7 +22,7 @@ COMP311 Logic_Circuit_Design
 - NAND
 - NOR
 - XOR & XNOR
-### [IC Performance Parameter]({% link _posts/DIgital_Logic_Design/3_Performance_Parameter/README.md %})
+### [IC Performance Parameter]({% link /_posts/Digital_Logic_Design/3_Performance_Parameter/README.md %})
 - Propagation Delay Time
 - Power Dissipation
 - Noise Immunity
