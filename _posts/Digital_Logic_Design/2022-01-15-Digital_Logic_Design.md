@@ -15,7 +15,7 @@ COMP311 Logic_Circuit_Design
 - **Excess-3 Code** : BCD Code + 0011<sub>(2)</sub>
 - **Gray Code** : Two successive values differ in only one bit. (Used in Rotary Encoder)
 
-### [Logic Gates]({% link _posts/Digital_Logic_Design/2_Logic_Gate/Logic_Gate. %})
+### [Logic Gates]({% link _posts/Digital_Logic_Design/2_Logic_Gate/Logic_Gate %})
 - AND
 - OR
 - NOT
