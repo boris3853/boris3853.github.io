@@ -1,5 +1,3 @@
-# EE/CS 공부 내용
-
 ## Digital Logic Design
 - ELEC247 Logic Circuits
 - COMP311 Logic Circuit Design
