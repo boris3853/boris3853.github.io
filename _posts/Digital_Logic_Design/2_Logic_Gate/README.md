@@ -1,6 +1,6 @@
 ---
 title: Logic Gates
-tags: Digital Logic
+tags: Digital_Logic
 ---
 ## AND
 ![AND_COMPARE](https://user-images.githubusercontent.com/60434800/147720168-66cb2216-b74c-4399-af62-d54a6ed93a58.png)

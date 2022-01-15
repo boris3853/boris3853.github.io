@@ -1,6 +1,6 @@
 ---
 title: IC Performance Parameter
-tags: Digital Logic
+tags: Digital_Logic
 ---
 - [SN7303 NAND Gates IC](https://www.ti.com/lit/ds/symlink/sn54ls03.pdf?ts=1640783174878&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)
 

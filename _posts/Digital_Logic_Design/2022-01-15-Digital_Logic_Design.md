@@ -1,6 +1,6 @@
 ---
 title : Digital Logic Design
-tags : Digital Logic
+tags : Digital_Logic
 ---
 ## 수강 과목
 ELEC247 Logic_Circuits    
@@ -15,14 +15,14 @@ COMP311 Logic_Circuit_Desigin
 - **Excess-3 Code** : BCD Code + 0011<sub>(2)</sub>
 - **Gray Code** : Two successive values differ in only one bit. (Used in Rotary Encoder)
 
-### [Logic Gates](/_posts/Digital_Logic_Design/2_Logic_Gate/2022-01-15-Logic_Gates.md)
+### [Logic Gates]({% link /_posts/Digital_Logic_Design/2_Logic_Gate/README.md %})
 - AND
 - OR
 - NOT
 - NAND
 - NOR
 - XOR & XNOR
-### [IC Performance Parameter](/_posts/Digital_Logic_Design/3_Performance_Parameter/2022-01-15-IC_Performance_Parameter.md)
+### [IC Performance Parameter]({% link /_posts/Digital_Logic_Design/3_Performance_Parameter/README.md %})
 - Propagation Delay Time
 - Power Dissipation
 - Noise Immunity
