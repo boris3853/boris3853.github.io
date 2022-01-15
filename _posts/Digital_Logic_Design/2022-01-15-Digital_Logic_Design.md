@@ -1,6 +1,6 @@
 ---
 title : Digital Logic Design
-tags : TeXt
+tags : Digital Logic
 ---
 ## 수강 과목
 ELEC247 Logic_Circuits    

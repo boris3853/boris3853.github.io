@@ -1,4 +1,7 @@
-# Logic Gates
+---
+title: Logic Gates
+tags: Digital Logic
+---
 ## AND
 ![AND_COMPARE](https://user-images.githubusercontent.com/60434800/147720168-66cb2216-b74c-4399-af62-d54a6ed93a58.png)
 [Reference](https://www.ti.com/lit/ds/symlink/sn74ls09.pdf?ts=1640783088049&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)

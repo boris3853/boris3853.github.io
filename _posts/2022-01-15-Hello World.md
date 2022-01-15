@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags: TeXt
+tags: test
 ---
 
 Hello World
