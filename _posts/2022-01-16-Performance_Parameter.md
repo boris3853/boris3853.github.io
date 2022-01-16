@@ -37,6 +37,3 @@ tags : Digital_Logic
 ## 5. Sink-Current / Source Current
 
 ## 6. Pull-up Resistor / Pull-down Resistor
-
-## Material
-[3_Perforamance_Parameter](https://github.com/boris3853/boris3853.github.io/tree/master/Digital_Logic_Design/3_Perforamance_Parameter)
