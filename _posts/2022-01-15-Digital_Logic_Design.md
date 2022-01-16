@@ -23,7 +23,7 @@ COMP311 Logic_Circuit_Design
 - NOR
 - XOR & XNOR
 
-### [IC Performance Parameter]({% link 2022-01-16-Performance_Parameter.md %})
+### [IC Performance Parameter]({% link _posts/2022-01-16-Performance_Parameter.md %})
 - Propagation Delay Time
 - Power Dissipation
 - Noise Immunity
