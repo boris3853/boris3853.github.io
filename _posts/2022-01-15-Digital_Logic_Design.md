@@ -15,18 +15,20 @@ COMP311 Logic_Circuit_Design
 - **Excess-3 Code** : BCD Code + 0011<sub>(2)</sub>
 - **Gray Code** : Two successive values differ in only one bit. (Used in Rotary Encoder)
 
-### [Logic Gates]({% link Digital_Logic_Design/2_Logic_Gate/2022-01-16-Logic_Gate.md %})
+### [Logic Gates]({% link _posts/2022-01-16-Logic_Gate.md %})
 - AND
 - OR
 - NOT
 - NAND
 - NOR
 - XOR & XNOR
-### [IC Performance Parameter]({% link Digital_Logic_Design/3_Performance_Parameter/Performance_Parameter.md %})
+
+### [IC Performance Parameter]({% link _posts/2022-01-16-Performance_Parameter.md %})
 - Propagation Delay Time
 - Power Dissipation
 - Noise Immunity
 - fan-in / fan-out
+
 ### Boolean Expression
 - minterm 
 - maxterm

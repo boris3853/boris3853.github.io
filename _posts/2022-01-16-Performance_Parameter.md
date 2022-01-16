@@ -1,4 +1,9 @@
-- [SN7303 NAND Gates IC](https://www.ti.com/lit/ds/symlink/sn54ls03.pdf?ts=1640783174878&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)
+---
+title : 03. Performance Parameter
+tags : Digital_Logic
+---
+
+[SN7303 NAND Gates IC](https://www.ti.com/lit/ds/symlink/sn54ls03.pdf?ts=1640783174878&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)
 
 ## 1. Propagation Delay Time
 - length of time taken for input change to reach to the output
@@ -33,3 +38,5 @@
 
 ## 6. Pull-up Resistor / Pull-down Resistor
 
+## Material
+[3_Perforamance_Parameter](https://github.com/boris3853/boris3853.github.io/tree/master/Digital_Logic_Design/3_Perforamance_Parameter)

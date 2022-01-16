@@ -1,3 +1,8 @@
+---
+title : 02. Logic Gate
+tags : Digital_Logic
+---
+
 ## AND
 ![AND_COMPARE](https://user-images.githubusercontent.com/60434800/147720168-66cb2216-b74c-4399-af62-d54a6ed93a58.png)
 [Reference](https://www.ti.com/lit/ds/symlink/sn74ls09.pdf?ts=1640783088049&ref_url=https%253A%252F%252Fen.wikipedia.org%252F)
@@ -70,3 +75,6 @@ XNOR : (A ⊕ B)' = AB + A'B' 로 구현
 | 0 | 1 | 0 |
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
+
+## Material
+[2_Logic_Gate](https://github.com/boris3853/boris3853.github.io/tree/master/Digital_Logic_Design/2_Logic_Gate)
